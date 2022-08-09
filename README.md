@@ -20,7 +20,7 @@
 </br>
 
 # 🐍 Introdução 🐍
-O programa é uma simulação do jogo da cobrinha, jogo muito famoso nos anos 90 com os celulares da Nokia que vinham com o jogo instalado. Aqui tentamos implementar o jogo da cobrinha e o Pac-Man.
+O programa é uma simulação do jogo da cobrinha feito em c++ e utilizando o [game loop pattern](https://gameprogrammingpatterns.com/game-loop.html), jogo foi muito famoso nos anos 90 com os celulares da Nokia que vinham com o jogo instalado. Aqui tentamos implementar o jogo da cobrinha e o Pac-Man.
 ###
 
 ## Pacman
